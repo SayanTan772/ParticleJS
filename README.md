@@ -29,8 +29,8 @@ Here are the Technologies used:
 1. HTML5
 2. CSS3
 3. JavaScript
-4. Font Awesome
-5. Particle.js
+4. [Font Awesome](https://fontawesome.com/)
+5. [Particle.js](https://vincentgarreau.com/particles.js/)
 
 ## Usage
 This is a sample video that demonstrates how the web page works:
